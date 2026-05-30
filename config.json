@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authrarse",
+        "uuid": 2471600,
+        "checksum": "zxjogj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
